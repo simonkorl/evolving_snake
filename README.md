@@ -1,4 +1,6 @@
-# snake
+# Evolving Snake
+
+An evolving snake game
 
 ## Project setup
 ```
